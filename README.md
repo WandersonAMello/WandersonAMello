@@ -2,7 +2,6 @@
 
 <p align="center">
   Estudante de Ciência da Computação na Universidade Federal do Tocantins (UFT).
-  Atualmente estou estudando Java para desenvolvimento Back-end com Spring Boot.
 
 </p>
 
