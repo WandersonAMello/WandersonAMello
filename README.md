@@ -1,17 +1,17 @@
-<h1 align="center">👋 Olá, sou Wanderson de Mello!</h1>
+<h1 align="center">👋 Olá, me chamo Wanderson Mello!</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação com foco em <b>processamento de imagens</b> e <b>visão computacional</b>.
+  Estudante de Ciência da Computação na Universidade Federal do Tocantins (UFT).
+  Atualmente estou estudando Java para desenvolvimento Back-end com Spring Boot.
+
 </p>
 
 ---
 
 ## 🎓 Interesses Acadêmicos
 Estou aprofundando meus estudos nas disciplinas:
-- Processamento de Imagens Digitais
-- Visão Computacional
-- Aprendizado de Máquina aplicada a Imagem
-- Banco de dados 
+- Processamento de Imagens Digitais e Visão Computacional.
+- Banco de dados.
 
 ---
 
