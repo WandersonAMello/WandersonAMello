@@ -19,6 +19,8 @@ Estou aprofundando meus estudos nas disciplinas:
   Exercícios em Java focados em lógica, estruturas, operadores e fundamentos da linguagem.
 - [**Processamento_de_imagens**](https://github.com/WandersonAMello/Processamento_de_imagens)  
   Este repositório reúne implementações práticas de algoritmos fundamentais da disciplina de Processamento Digital de Imagens. Os trabalhos incluem operações aritméticas, filtros, segmentação, interpolação, e outras técnicas essenciais aplicadas a imagens em escala de cinza.
+- [**Bud-Strike**](https://github.com/WandersonAMello/bud-strike-eng-soft-2024-1)  
+  Aplicação web PHP feita em grupo para a disciplina de Engenharia de Software.
 
 
 ---
