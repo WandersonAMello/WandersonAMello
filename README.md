@@ -17,6 +17,8 @@ Estou aprofundando meus estudos nas disciplinas:
 ## 🚀 Meus Repositórios Destaque
 - [**java-estudos**](https://github.com/WandersonAMello/java-estudos)  
   Exercícios em Java focados em lógica, estruturas, operadores e fundamentos da linguagem.
+- [**Processamento_de_imagens**](https://github.com/WandersonAMello/Processamento_de_imagens)  
+  Este repositório reúne implementações práticas de algoritmos fundamentais da disciplina de Processamento Digital de Imagens. Os trabalhos incluem operações aritméticas, filtros, segmentação, interpolação, e outras técnicas essenciais aplicadas a imagens em escala de cinza.
 
 
 ---
